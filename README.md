@@ -45,17 +45,6 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallabi1608&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallabi1608&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallabi1608&theme=radical" alt="pallabi1608" />
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
