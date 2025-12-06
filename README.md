@@ -1,15 +1,15 @@
-# Hi there, I'm Pallabi Pathak! 👋
+# Hi there, I'm Pallabi Pathak!
 
 ## 🚀 About Me
 
-- 🔬 **Software Developer** transitioning into **AI & Machine Learning**
-- 🎓 Currently pursuing **M.S. in Computer Science** at **Julius Maximilians University of Würzburg**
-- 💼 **4+ years** of professional experience in **Firmware Engineering and Development**
-- 🤖 Passionate about **Deep Learning**, **LLMs**, **Computer Vision**, and **Generative AI**
-- 📚 Deepening expertise in **Transformer Architectures** and **Multimodal AI**
-- 🌐 Expanding research in **Multilingual NLP Systems**
-- 🚀 Building next-generation **Generative AI applications**
-- 📍 Based in **Würzburg, Bavaria, Germany**
+- **Software Developer** transitioning into **AI & Machine Learning**
+- Currently pursuing **M.S. in Computer Science** at **Julius Maximilians University of Würzburg**
+- **4+ years** of professional experience in **Firmware Engineering and Development**
+- Passionate about **Deep Learning**, **LLMs**, **Computer Vision**, and **Generative AI**
+- Deepening expertise in **Transformer Architectures** and **Multimodal AI**
+- Expanding research in **Multilingual NLP Systems**
+- Building next-generation **Generative AI applications**
+- Based in **Würzburg, Bavaria, Germany**
 
 ## 💻 Tech Stack & Skills
 
@@ -30,11 +30,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Specializations
-🧠 **Deep Learning**: CNNs, RNNs, Transformers, Encoder-Decoder Architectures  
-🤖 **Generative AI**: LLMs, Vision-Language Models, GANs, Diffusion Models  
-👁️ **Computer Vision**: 2D/3D CV, Multimodal AI  
-📝 **NLP**: Natural Language Processing, Multilingual Systems  
-🔧 **Firmware**: Low-level algorithms, Memory optimization, C/C++
+**Deep Learning**: CNNs, RNNs, Transformers, Encoder-Decoder Architectures  
+**Generative AI**: LLMs, Vision-Language Models, GANs, Diffusion Models  
+**Computer Vision**: 2D/3D CV, Multimodal AI  
+**NLP**: Natural Language Processing, Multilingual Systems  
+**Firmware**: Low-level algorithms, Memory optimization, C/C++
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +45,7 @@
 
 </div>
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -53,8 +53,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallabipathak08@gmail.com)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
