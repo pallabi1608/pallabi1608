@@ -1,22 +1,13 @@
 # Hi there, I'm Pallabi Pathak! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+Developer+%2B+AI+Enthusiast;Deep+Learning+%26+Generative+AI+Specialist;Transforming+Ideas+into+Intelligent+Solutions;4%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pallabi1608&label=Profile%20views&color=8a2be2&style=flat" alt="pallabi1608" />
-  <img src="https://img.shields.io/github/followers/pallabi1608?label=Followers&style=social" alt="GitHub Badge">
-</p>
-
 ## 🚀 About Me
 
 - 🔬 **Software Developer** transitioning into **AI & Machine Learning**
 - 🎓 Currently pursuing **M.S. in Computer Science** at **Julius Maximilians University of Würzburg**
-- 💼 **4+ years** of professional experience in **firmware engineering** at **HP Inc.**
+- 💼 **4+ years** of professional experience in **Firmware Engineering and Development**
 - 🤖 Passionate about **Deep Learning**, **LLMs**, **Computer Vision**, and **Generative AI**
-- 📚 Deepening expertise in **Transformer architectures** and **Multimodal AI**
-- 🌐 Expanding research in **multilingual NLP systems**
+- 📚 Deepening expertise in **Transformer Architectures** and **Multimodal AI**
+- 🌐 Expanding research in **Multilingual NLP Systems**
 - 🚀 Building next-generation **Generative AI applications**
 - 📍 Based in **Würzburg, Bavaria, Germany**
 
