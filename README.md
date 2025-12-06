@@ -1,6 +1,6 @@
 # Hi there, I'm Pallabi Pathak!
 
-## 🚀 About Me
+## About Me
 
 - **Software Developer** transitioning into **AI & Machine Learning**
 - Currently pursuing **M.S. in Computer Science** at **Julius Maximilians University of Würzburg**
@@ -11,7 +11,7 @@
 - Building next-generation **Generative AI applications**
 - Based in **Würzburg, Bavaria, Germany**
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
