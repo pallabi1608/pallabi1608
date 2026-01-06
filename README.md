@@ -3,7 +3,7 @@
 ## About Me
 
 - **Software Developer** transitioning into **AI & Machine Learning**
-- Currently pursuing **M.S. in Computer Science** at **Julius Maximilians University of Würzburg**
+- Currently pursuing **M.S. in Computer Science** at the **Julius-Maximilians-Universität Würzburg**
 - **4+ years** of professional experience in **Firmware Engineering and Development**
 - Passionate about **Deep Learning**, **LLMs**, **Computer Vision**, and **Generative AI**
 - Deepening expertise in **Transformer Architectures** and **Multimodal AI**
