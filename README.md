@@ -9,7 +9,7 @@
 - Deepening expertise in **Transformer Architectures** and **Multimodal AI**
 - Expanding research in **Multilingual NLP Systems**
 - Building next-generation **Generative AI applications**
-- Based in **Würzburg, Bavaria, Germany**
+- Based in **Germany**
 
 ## Tech Stack & Skills
 
