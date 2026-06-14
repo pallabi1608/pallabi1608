@@ -2,14 +2,12 @@
 
 ## About Me
 
-- **Software Developer** transitioning into **AI & Machine Learning**
-- Currently pursuing **M.S. in Computer Science** at the **Julius-Maximilians-Universität Würzburg**
-- **4+ years** of professional experience in **Firmware Engineering and Development**
+- **Systems Software Developer & Firmware Engineer** transitioning into **AI & Machine Learning**
+- **M.S. in Computer Science** at the **Julius-Maximilians-Universität Würzburg**
+- **4+ years** of professional experience in **Firmware Engineering and Software Development**
 - Passionate about **Deep Learning**, **LLMs**, **Computer Vision**, and **Generative AI**
-- Deepening expertise in **Transformer Architectures** and **Multimodal AI**
+- Deepening expertise in **Transformer Architectures**
 - Expanding research in **Multilingual NLP Systems**
-- Building next-generation **Generative AI applications**
-- Based in **Germany**
 
 ## Tech Stack & Skills
 
